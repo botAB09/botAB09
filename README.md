@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @botAB09
 - 👀 I’m interested in games and software development .
-- 🌱 I’m currently learning React .
 - 💞️ I’m looking to collaborate on open-source web-based projects.
 - 📫 You can reach on gamil : bhandarik667@gmail.com
 
